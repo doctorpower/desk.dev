@@ -1,0 +1,15 @@
+1 create 5
+2 create 7
+3 create 8
+2 update 19
+4 create 10
+1 update 11
+5 create 14
+6 create 17
+7 create 6
+8 create 9
+9 create 6
+1 delete
+6 delete
+10 create 6
+11 create 3

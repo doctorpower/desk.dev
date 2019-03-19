@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\OS1\OS1\bin\Debug\OS1.exe.config
+C:\Users\Denis\source\repos\OS1\OS1\bin\Debug\OS1.exe
+C:\Users\Denis\source\repos\OS1\OS1\bin\Debug\OS1.pdb
+C:\Users\Denis\source\repos\OS1\OS1\obj\Debug\OS1.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\OS1\OS1\obj\Debug\OS1.Form1.resources
+C:\Users\Denis\source\repos\OS1\OS1\obj\Debug\OS1.Properties.Resources.resources
+C:\Users\Denis\source\repos\OS1\OS1\obj\Debug\OS1.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\OS1\OS1\obj\Debug\OS1.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\OS1\OS1\obj\Debug\OS1.exe
+C:\Users\Denis\source\repos\OS1\OS1\obj\Debug\OS1.pdb

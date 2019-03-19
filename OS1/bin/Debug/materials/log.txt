@@ -1,0 +1,15 @@
+file ¹1 create	0 1 2 3 4 
+file ¹2 create	5 6 7 8 9 10 11 
+file ¹3 create	12 13 14 15 16 17 18 19 
+file ¹2 update	20 21 22 23 24 25 26 27 28 29 30 31 
+file ¹4 create	32 33 34 35 36 37 38 39 40 41 
+file ¹1 update	42 43 44 45 46 47 
+file ¹5 create	48 49 50 51 52 53 54 55 56 57 58 59 60 61 
+file ¹6 create	62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 
+file ¹7 create	79 80 81 82 83 84 
+file ¹8 create	85 86 87 88 89 90 91 92 93 
+file ¹9 create	94 95 96 97 98 99 
+file ¹1 delete	0(del) 1(del) 2(del) 3(del) 4(del) 42(del) 43(del) 44(del) 45(del) 46(del) 47(del) 
+file ¹6 delete	62(del) 63(del) 64(del) 65(del) 66(del) 67(del) 68(del) 69(del) 70(del) 71(del) 72(del) 73(del) 74(del) 75(del) 76(del) 77(del) 78(del) 
+file ¹10 create	62 63 64 65 66 67 
+file ¹11 create	68 69 70 
